@@ -1,4 +1,7 @@
-### Hi there 👋
+  <p align="center">
+    <img width="100" height="100" src="./assets/logo.png">
+  </p>
+  <h2 align="center">Omniboy Github Repository</h2>
 
   [![My github stats](https://github-readme-stats.vercel.app/api?username=omniboyOk&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
