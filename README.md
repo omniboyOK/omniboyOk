@@ -4,7 +4,7 @@
   <h2 align="center">Omniboy Github Repository</h2>
 <span align="center">
 
-  [![My github stats](https://github-readme-stats.vercel.app/api?username=omniboyOk&count_private=true&show_icons=true)]
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=omniboyOk&count_private=true&show_icons=true)
 
 </span>
   
