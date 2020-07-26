@@ -2,7 +2,19 @@
     <img width="100" height="100" src="https://raw.githubusercontent.com/omniboyOK/omniboyOk/master/assets/logo.png">
   </p>
   <h2 align="center">Omniboy Github Repository</h2>
+  <p align="center">I'm a full stack web developer with an indie game development twist 👨‍💻</p>
 <span align="center">
+
+
+🔭 I’m currently working on my React skills!
+
+<p align="center">
+    <a href="https:www.omniboydev.com">
+      <img src="https://img.shields.io/badge/social-My%20Web-brightgreen" />
+    </a>
+  </p>
+
+  <h3 align="center">My stats</h3>
 
   ![My github stats](https://github-readme-stats-mu-five.vercel.app/api?username=omniboyOK&show_icons=true)
 
@@ -10,17 +22,4 @@
 
 </span>
   
-<!--
-**omniboyOK/omniboyOk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">Thanks for visiting!</p>
