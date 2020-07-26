@@ -4,7 +4,9 @@
   <h2 align="center">Omniboy Github Repository</h2>
 <span align="center">
 
-  ![My github stats](https://github-readme-stats-mu-five.vercel.app/api?username=omniboyOK)
+  ![My github stats](https://github-readme-stats-mu-five.vercel.app/api?username=omniboyOK&show_icons=true)
+
+  ![Top Langs](https://github-readme-stats-mu-five.vercel.app/api/top-langs/?username=omniboyOK&hide=CSS,GLSL,Python)
 
 </span>
   
