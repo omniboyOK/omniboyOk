@@ -9,8 +9,8 @@
 🔭 I’m currently working on my React skills!
 
 <p align="center">
-    <a href="https:www.omniboydev.com">
-      <img src="https://img.shields.io/badge/social-My%20Web-brightgreen" />
+    <a href="https://www.linkedin.com/in/pablo-barrea/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
     </a>
   </p>
 
