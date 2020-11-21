@@ -6,7 +6,7 @@
 <span align="center">
 
 
-🔭 I’m currently working on my React skills!
+🔭 I’m currently working on my Tech Lead skills!
 
 <p align="center">
     <a href="https://www.linkedin.com/in/pablo-barrea/" target="_blank">
