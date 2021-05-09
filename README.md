@@ -1,5 +1,5 @@
   <p align="center">
-    <img width="100" height="100" src="https://raw.githubusercontent.com/omniboyOK/omniboyOk/master/assets/logo.png">
+    <img width="100" height="100" src="https://raw.githubusercontent.com/omniboyOK/omniboyOk/master/assets/banner-logo.png">
   </p>
   <h2 align="center">Omniboy Github Repository</h2>
   <p align="center">I'm a full stack web developer with an indie game development twist 👨‍💻</p>
