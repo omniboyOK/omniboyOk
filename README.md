@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/pablo-barrea/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
     </a>
-    <a href="https://omniboyok.itch.io" target="_blank">
+    <a href="https://omniboy.itch.io" target="_blank">
       <img src="https://img.shields.io/badge/Store-green?style=flat&logo=Itch.io&labelColor=green&logoColor=white" />
     </a>
     <a href="https://omniboyok.github.io" target="_blank">
