@@ -19,13 +19,7 @@
       <img src="https://img.shields.io/badge/My Web-black?style=flat&logo=&labelColor=green&logoColor=white" />
     </a>
   </p>
-
-  <h3 align="center">My stats</h3>
-
-  ![My github stats](https://github-readme-stats-mu-five.vercel.app/api?username=omniboyOK&show_icons=true)
-
-  ![Top Langs](https://github-readme-stats-mu-five.vercel.app/api/top-langs/?username=omniboyOK&hide=CSS,GLSL,Python)
-
+  
 </span>
   
 <p align="center">Thanks for visiting!</p>
