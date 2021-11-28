@@ -1,7 +1,6 @@
   <p align="center">
     <img height="100" src="https://raw.githubusercontent.com/omniboyOK/omniboyOk/master/assets/bannerlogo.png">
   </p>
-  <h2 align="center">Welcome!</h2>
   <p align="center">I'm a full stack web developer with an indie game development twist 👨‍💻</p>
 <span align="center">
 
