@@ -20,5 +20,3 @@
   </p>
   
 </span>
-  
-<p align="center">Thanks for visiting!</p>
